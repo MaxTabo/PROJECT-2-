@@ -82,7 +82,13 @@ I couldn't find any notorious relation between Happiness and suicide rate.
 
 ### Box plots of Happiness all over the World and per Regions.
 
+
+
 <img src='Images\HAPPY_boxplot.png'>
+
+
+
+
 
 
 
@@ -97,7 +103,7 @@ I couldn't find any notorious relation between Happiness and suicide rate.
 
 
 
-#####Links and Resources
+##### Links and Resources
 https://www.kaggle.com/
 https://www.shutterstock.com/
 https://data.worldbank.org
