@@ -60,7 +60,7 @@ Eventually, assemble plots to start drawing conclusions.
 #### Heat map
 <img src='Images\HEATMAP.png'>
 As it is easily noticeable, the strongest correlation with the 'Happiness Score' are the variable s'GDP per capita'(0.82 coefficient) and 'Life Expectancy(0.75)'. So, at first sight, we can establish that incomes and health have much more weight than the other variables.
-### Head and Tail
+###  Head and Tail
 <img src='Images\HAPPINESS.png'>
 Here we have a barplot showing the difference between the 'Top 5' and the ones that are on the bottom of the ranking. The countries with a higher 'Happinnes Score' are european countries and Canada. And on the other hand, we have countries in war, and from the 'deep third world'.
 As we can see below, we have a scatterplot per Regions.
