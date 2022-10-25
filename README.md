@@ -2,6 +2,8 @@
 ## World Happiness Report Project.
 Maximiliano Tabó
 
+<img src='Images\Happiness Report.jpg'>
+
 
 ### Table of Contents:
 **1-Intro.**
